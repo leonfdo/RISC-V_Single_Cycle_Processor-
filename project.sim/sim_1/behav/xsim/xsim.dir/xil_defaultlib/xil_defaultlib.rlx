@@ -1,0 +1,27 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/leonf/OneDrive/Documents/processor/project/project.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sim_1/new/ALU_tb.sv,1695331442,systemVerilog,,,,ALU_tb,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sim_1/new/Datapath_test.sv,1697452131,systemVerilog,,,,Datapath_test,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sim_1/new/Imm_gen_tb.sv,1695344180,systemVerilog,,,,Imm_gen_tb,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sim_1/new/Instruction_mem_tb.sv,1695339719,systemVerilog,,,,Instruction_mem_tb,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sim_1/new/controller_tst.sv,1696786448,systemVerilog,,,,controller_tst,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sim_1/new/pc_testbench.sv,1696454366,systemVerilog,,,,pc_testbench,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sim_1/new/register_tb.sv,1696515153,systemVerilog,,,,register_tb,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sim_1/new/root_tb.sv,1695365915,systemVerilog,,,,root_tb,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/ALU.sv,1696938339,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Adder.sv,,ALU,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Adder.sv,1696700693,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Branch_pre.sv,,Adder,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Branch_pre.sv,1696938339,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Data_mem.sv,,Branch_pre,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Control_unit.sv,1697038038,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Data_mem.sv,,Control_unit,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Data_mem.sv,1696703274,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Datapath.sv,,Data_mem,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Datapath.sv,1697455308,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv,,Datapath,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv,1697434713,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Instruction_mem.sv,,Imm_gen,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Instruction_mem.sv,1697465361,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Memcpy.sv,,Instruction_mem,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Memcpy.sv,1697456894,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Microprograming.sv,,Memcpy,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Microprograming.sv,1697450209,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Mux.sv,,Microprograming,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Mux.sv,1696568773,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/program_count.sv,,Mux,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/clk.sv,1695359785,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/register.sv,,ClockGenerator,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/program_count.sv,1696695322,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/register.sv,,program_count,,,,,,,,
+C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/register.sv,1697437308,systemVerilog,,C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sim_1/new/Datapath_test.sv,,reg_array,,,,,,,,

@@ -1,0 +1,104 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+-------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Mon Oct 16 21:21:08 2023
+| Host         : DESKTOP-TA3S8JV running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file Datapath_control_sets_placed.rpt
+| Design       : Datapath
+| Device       : xc7z010
+-------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Number of unique control sets                            |    37 |
+| Unused register locations in slices containing registers |     7 |
++----------------------------------------------------------+-------+
+
+
+2. Histogram
+------------
+
++--------+--------------+
+| Fanout | Control Sets |
++--------+--------------+
+|      6 |            1 |
+|      7 |            1 |
+|     12 |            1 |
+|    16+ |           34 |
++--------+--------------+
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |              45 |           28 |
+| No           | No                    | Yes                    |               0 |            0 |
+| No           | Yes                   | No                     |              12 |            4 |
+| Yes          | No                    | No                     |               0 |            0 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |            1024 |          438 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++----------------+-------------------------------------------------+--------------------+------------------+----------------+
+|  Clock Signal  |                  Enable Signal                  |  Set/Reset Signal  | Slice Load Count | Bel Load Count |
++----------------+-------------------------------------------------+--------------------+------------------+----------------+
+| ~com_sig       |                                                 |                    |                3 |              6 |
+|  com_sig       |                                                 |                    |                3 |              7 |
+|  clk_IBUF_BUFG |                                                 | register_blk/SR[0] |                4 |             12 |
+|  n_0_1603_BUFG |                                                 |                    |               22 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/E[0]                          | register_blk/SR[0] |               22 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_17[0] | register_blk/SR[0] |               13 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_18[0] | register_blk/SR[0] |               14 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_19[0] | register_blk/SR[0] |               10 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_20[0] | register_blk/SR[0] |               21 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_21[0] | register_blk/SR[0] |               12 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_25[0] | register_blk/SR[0] |               12 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_26[0] | register_blk/SR[0] |               13 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_27[0] | register_blk/SR[0] |               12 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_28[0] | register_blk/SR[0] |               16 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_33[0] | register_blk/SR[0] |               14 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_34[0] | register_blk/SR[0] |               12 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_22[0] | register_blk/SR[0] |               18 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_23[0] | register_blk/SR[0] |                8 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_24[0] | register_blk/SR[0] |               16 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_37[0] | register_blk/SR[0] |               16 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_45[0] | register_blk/SR[0] |               10 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_40[0] | register_blk/SR[0] |               11 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_39[0] | register_blk/SR[0] |               13 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_49[0] | register_blk/SR[0] |               11 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_43[0] | register_blk/SR[0] |               10 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_42[0] | register_blk/SR[0] |                9 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_38[0] | register_blk/SR[0] |               14 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_50[0] | register_blk/SR[0] |               12 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_48[0] | register_blk/SR[0] |               12 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_36[0] | register_blk/SR[0] |               10 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_47[0] | register_blk/SR[0] |               19 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_35[0] | register_blk/SR[0] |               12 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_44[0] | register_blk/SR[0] |               19 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_46[0] | register_blk/SR[0] |                9 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_41[0] | register_blk/SR[0] |               17 |             32 |
+|  clk_IBUF_BUFG | program_count_blk/program_counter_reg[10]_51[0] | register_blk/SR[0] |               21 |             32 |
+|  clk_IBUF_BUFG | control_unit_blk/memwrt                         |                    |                8 |             32 |
++----------------+-------------------------------------------------+--------------------+------------------+----------------+
+
+

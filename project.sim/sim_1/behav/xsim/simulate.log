@@ -1,0 +1,24 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Mux.sv:10
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Mux.sv:10
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Mux.sv:10
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Mux.sv:10
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Mux.sv:10
+WARNING: 0ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Mux.sv:10
+WARNING: 10ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 170ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 190ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 210ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 230ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 470ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 570ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 590ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Mux.sv:10
+WARNING: 610ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Mux.sv:10
+WARNING: 610ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 630ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 650ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 670ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 810ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
+WARNING: 830ns : none of the conditions were true for unique case from File:C:/Users/leonf/OneDrive/Documents/processor/project/project.srcs/sources_1/new/Imm_gen.sv:8
